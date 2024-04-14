@@ -1,3 +1,5 @@
+from two import num
+
 print("Hello World!!!","kanha")
 #variable- is a memory location ,where we store data in a programing language
 name="kanha"
@@ -10,3 +12,5 @@ print("my name is ",name ,"my salary is",sal)
 this is the multiline comments
 ----------------
 """
+
+num("kese ho")

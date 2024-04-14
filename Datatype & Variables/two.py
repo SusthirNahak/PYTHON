@@ -10,3 +10,7 @@ print(type(amount))
 #3.Float
 #4.String
 #5.None
+def num(n):
+    print(n)
+
+num("hyyy")    

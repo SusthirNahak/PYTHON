@@ -1,2 +1,6 @@
-for element in range(4,12,1):
-    print(element)
+i = 0
+while i < 9:
+    i = i+1
+    if i == 4:
+        continue
+    print(i)
